@@ -1,0 +1,2 @@
+# Age-and-Gender-Classification-using-OpenCV-and-Deep-Learning
+The project uses a publicly available dataset like UTKFace, which contains over 23,000 images with labels for age, gender, and ethnicity. The images are preprocessed by resizing them to a consistent size, normalizing the pixel values, and converting them to grayscale for face detection. OpenCV is used to perform face detection on these images, pred
